@@ -1,0 +1,6 @@
+ticker,date,reference_close,reference_source,reference_url,reference_retrieved_at_utc
+AAPL,2025-12-31,271.86,Nasdaq.com chart API,https://api.nasdaq.com/api/quote/AAPL/chart?assetclass=stocks&fromdate=2025-12-31&todate=2025-12-31,2026-08-04T06:31:59Z
+MSFT,2025-12-31,483.62,Nasdaq.com chart API,https://api.nasdaq.com/api/quote/MSFT/chart?assetclass=stocks&fromdate=2025-12-31&todate=2025-12-31,2026-08-04T06:31:59Z
+GOOGL,2025-12-31,313.00,Nasdaq.com chart API,https://api.nasdaq.com/api/quote/GOOGL/chart?assetclass=stocks&fromdate=2025-12-31&todate=2025-12-31,2026-08-04T06:31:59Z
+AMZN,2025-12-31,230.82,Nasdaq.com chart API,https://api.nasdaq.com/api/quote/AMZN/chart?assetclass=stocks&fromdate=2025-12-31&todate=2025-12-31,2026-08-04T06:31:59Z
+NVDA,2025-12-31,186.50,Nasdaq.com chart API,https://api.nasdaq.com/api/quote/NVDA/chart?assetclass=stocks&fromdate=2025-12-31&todate=2025-12-31,2026-08-04T06:31:59Z

@@ -1,0 +1,6 @@
+ticker,status,expected_sessions,observed_rows,missing_sessions,unexpected_dates,duplicate_dates,non_monotonic_dates,missing_values,non_finite_values,non_positive_prices,ohlc_range_violations,negative_volume,fractional_volume,first_date,last_date,error
+AAPL,FAIL,1255,0,1255,0,0,0,0,0,0,0,0,0,,,CollectionError: Download failed after 3 attempts for AAPL: CollectionError: Yahoo Finance returned no rows.
+MSFT,FAIL,1255,0,1255,0,0,0,0,0,0,0,0,0,,,CollectionError: Download failed after 3 attempts for MSFT: CollectionError: Yahoo Finance returned no rows.
+GOOGL,FAIL,1255,0,1255,0,0,0,0,0,0,0,0,0,,,CollectionError: Download failed after 3 attempts for GOOGL: CollectionError: Yahoo Finance returned no rows.
+AMZN,FAIL,1255,0,1255,0,0,0,0,0,0,0,0,0,,,CollectionError: Download failed after 3 attempts for AMZN: CollectionError: Yahoo Finance returned no rows.
+NVDA,FAIL,1255,0,1255,0,0,0,0,0,0,0,0,0,,,CollectionError: Download failed after 3 attempts for NVDA: CollectionError: Yahoo Finance returned no rows.

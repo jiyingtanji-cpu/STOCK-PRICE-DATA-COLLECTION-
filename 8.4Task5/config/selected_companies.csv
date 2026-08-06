@@ -1,0 +1,6 @@
+ticker,company,exchange,currency,selection_basis
+AAPL,Apple Inc.,NASDAQ,USD,Large-cap technology issuer with continuous listing across the study period
+MSFT,Microsoft Corporation,NASDAQ,USD,Large-cap technology issuer with continuous listing across the study period
+GOOGL,Alphabet Inc.,NASDAQ,USD,Large-cap technology issuer with continuous listing across the study period
+AMZN,"Amazon.com, Inc.",NASDAQ,USD,Large-cap technology issuer with continuous listing across the study period
+NVDA,NVIDIA Corporation,NASDAQ,USD,Large-cap technology issuer with continuous listing across the study period

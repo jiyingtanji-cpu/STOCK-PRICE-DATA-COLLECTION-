@@ -1,0 +1,31 @@
+2026-08-04T09:18:06Z | INFO | Downloading AAPL (2021-01-01 to 2025-12-31 inclusive), attempt 1/3.
+2026-08-04T09:18:28Z | WARNING | AAPL attempt 1 failed: CollectionError: Yahoo Finance returned no rows.
+2026-08-04T09:18:30Z | INFO | Downloading AAPL (2021-01-01 to 2025-12-31 inclusive), attempt 2/3.
+2026-08-04T09:18:51Z | WARNING | AAPL attempt 2 failed: CollectionError: Yahoo Finance returned no rows.
+2026-08-04T09:18:55Z | INFO | Downloading AAPL (2021-01-01 to 2025-12-31 inclusive), attempt 3/3.
+2026-08-04T09:19:17Z | WARNING | AAPL attempt 3 failed: CollectionError: Yahoo Finance returned no rows.
+2026-08-04T09:19:17Z | INFO | Downloading MSFT (2021-01-01 to 2025-12-31 inclusive), attempt 1/3.
+2026-08-04T09:19:39Z | WARNING | MSFT attempt 1 failed: CollectionError: Yahoo Finance returned no rows.
+2026-08-04T09:19:41Z | INFO | Downloading MSFT (2021-01-01 to 2025-12-31 inclusive), attempt 2/3.
+2026-08-04T09:20:02Z | WARNING | MSFT attempt 2 failed: CollectionError: Yahoo Finance returned no rows.
+2026-08-04T09:20:06Z | INFO | Downloading MSFT (2021-01-01 to 2025-12-31 inclusive), attempt 3/3.
+2026-08-04T09:20:28Z | WARNING | MSFT attempt 3 failed: CollectionError: Yahoo Finance returned no rows.
+2026-08-04T09:20:28Z | INFO | Downloading GOOGL (2021-01-01 to 2025-12-31 inclusive), attempt 1/3.
+2026-08-04T09:20:50Z | WARNING | GOOGL attempt 1 failed: CollectionError: Yahoo Finance returned no rows.
+2026-08-04T09:20:52Z | INFO | Downloading GOOGL (2021-01-01 to 2025-12-31 inclusive), attempt 2/3.
+2026-08-04T09:21:13Z | WARNING | GOOGL attempt 2 failed: CollectionError: Yahoo Finance returned no rows.
+2026-08-04T09:21:17Z | INFO | Downloading GOOGL (2021-01-01 to 2025-12-31 inclusive), attempt 3/3.
+2026-08-04T09:21:39Z | WARNING | GOOGL attempt 3 failed: CollectionError: Yahoo Finance returned no rows.
+2026-08-04T09:21:39Z | INFO | Downloading AMZN (2021-01-01 to 2025-12-31 inclusive), attempt 1/3.
+2026-08-04T09:22:01Z | WARNING | AMZN attempt 1 failed: CollectionError: Yahoo Finance returned no rows.
+2026-08-04T09:22:03Z | INFO | Downloading AMZN (2021-01-01 to 2025-12-31 inclusive), attempt 2/3.
+2026-08-04T09:22:24Z | WARNING | AMZN attempt 2 failed: CollectionError: Yahoo Finance returned no rows.
+2026-08-04T09:22:28Z | INFO | Downloading AMZN (2021-01-01 to 2025-12-31 inclusive), attempt 3/3.
+2026-08-04T09:22:50Z | WARNING | AMZN attempt 3 failed: CollectionError: Yahoo Finance returned no rows.
+2026-08-04T09:22:50Z | INFO | Downloading NVDA (2021-01-01 to 2025-12-31 inclusive), attempt 1/3.
+2026-08-04T09:23:12Z | WARNING | NVDA attempt 1 failed: CollectionError: Yahoo Finance returned no rows.
+2026-08-04T09:23:14Z | INFO | Downloading NVDA (2021-01-01 to 2025-12-31 inclusive), attempt 2/3.
+2026-08-04T09:23:36Z | WARNING | NVDA attempt 2 failed: CollectionError: Yahoo Finance returned no rows.
+2026-08-04T09:23:40Z | INFO | Downloading NVDA (2021-01-01 to 2025-12-31 inclusive), attempt 3/3.
+2026-08-04T09:24:01Z | WARNING | NVDA attempt 3 failed: CollectionError: Yahoo Finance returned no rows.
+2026-08-04T09:24:01Z | ERROR | Validation failed; the current published snapshot was left unchanged. AAPL: CollectionError: Download failed after 3 attempts for AAPL: CollectionError: Yahoo Finance returned no rows.; MSFT: CollectionError: Download failed after 3 attempts for MSFT: CollectionError: Yahoo Finance returned no rows.; GOOGL: CollectionError: Download failed after 3 attempts for GOOGL: CollectionError: Yahoo Finance returned no rows.; AMZN: CollectionError: Download failed after 3 attempts for AMZN: CollectionError: Yahoo Finance returned no rows.; NVDA: CollectionError: Download failed after 3 attempts for NVDA: CollectionError: Yahoo Finance returned no rows.

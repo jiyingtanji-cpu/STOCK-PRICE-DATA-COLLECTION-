@@ -1,0 +1,16 @@
+ticker,attempt,stage,error_type,error_message,timestamp_utc
+AAPL,1,download_or_normalize,CollectionError,Yahoo Finance returned no rows.,2026-08-04T09:18:28+00:00
+AAPL,2,download_or_normalize,CollectionError,Yahoo Finance returned no rows.,2026-08-04T09:18:51+00:00
+AAPL,3,download_or_normalize,CollectionError,Yahoo Finance returned no rows.,2026-08-04T09:19:17+00:00
+MSFT,1,download_or_normalize,CollectionError,Yahoo Finance returned no rows.,2026-08-04T09:19:39+00:00
+MSFT,2,download_or_normalize,CollectionError,Yahoo Finance returned no rows.,2026-08-04T09:20:02+00:00
+MSFT,3,download_or_normalize,CollectionError,Yahoo Finance returned no rows.,2026-08-04T09:20:28+00:00
+GOOGL,1,download_or_normalize,CollectionError,Yahoo Finance returned no rows.,2026-08-04T09:20:50+00:00
+GOOGL,2,download_or_normalize,CollectionError,Yahoo Finance returned no rows.,2026-08-04T09:21:13+00:00
+GOOGL,3,download_or_normalize,CollectionError,Yahoo Finance returned no rows.,2026-08-04T09:21:39+00:00
+AMZN,1,download_or_normalize,CollectionError,Yahoo Finance returned no rows.,2026-08-04T09:22:01+00:00
+AMZN,2,download_or_normalize,CollectionError,Yahoo Finance returned no rows.,2026-08-04T09:22:24+00:00
+AMZN,3,download_or_normalize,CollectionError,Yahoo Finance returned no rows.,2026-08-04T09:22:50+00:00
+NVDA,1,download_or_normalize,CollectionError,Yahoo Finance returned no rows.,2026-08-04T09:23:12+00:00
+NVDA,2,download_or_normalize,CollectionError,Yahoo Finance returned no rows.,2026-08-04T09:23:36+00:00
+NVDA,3,download_or_normalize,CollectionError,Yahoo Finance returned no rows.,2026-08-04T09:24:01+00:00

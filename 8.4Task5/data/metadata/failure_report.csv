@@ -1,0 +1,2 @@
+ticker,attempt,stage,error_type,error_message,timestamp_utc
+NVDA,1,download_or_normalize,CollectionError,Yahoo Finance returned no rows.,2026-07-30T02:32:59+00:00
